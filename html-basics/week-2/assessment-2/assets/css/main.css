@@ -1,0 +1,39 @@
+header {
+    padding: 8px;
+    margin: 35px;
+    margin-top: 1px;
+    margin-bottom: 1%;
+}
+video {
+    padding: 8px;
+    margin: 35px;
+    margin-top: 0%; 
+    border-radius: 25px;
+}
+.hue {
+    color: grey;
+}
+.case {
+    color: #000;
+}
+small {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+}
+h1 {
+    margin-bottom: 1%;
+    font-size: x-large;
+}
+.speak {
+    font-size: small;
+}
+.diff {
+    color: #000;
+}
+p {
+    padding: 8px;
+    margin: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 0px;
+    font-size: small;
+  }
