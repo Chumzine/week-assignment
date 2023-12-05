@@ -1,1 +1,1 @@
-# html-basics
+# javascript-functions
